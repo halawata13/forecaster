@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "manifest_version": "1.0.0",
+  "name": "Forecaster",
+  "short_name": "Forecaster",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#C4A3CC",
+  "background_color": "#ffffff"
+}

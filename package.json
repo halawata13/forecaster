@@ -18,16 +18,17 @@
     "framer-motion": "^4.1.17",
     "luxon": "^2.0.2",
     "next": "11.1.2",
+    "next-pwa": "^5.3.1",
     "react": "17.0.2",
     "react-chartjs-2": "^3.0.4",
     "react-dom": "17.0.2",
-    "sass": "^1.39.0",
+    "sass": "^1.39.2",
     "swr": "^1.0.0"
   },
   "devDependencies": {
     "@types/react": "17.0.20",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
-    "typescript": "4.4.2"
+    "typescript": "4.4.3"
   }
 }
